@@ -1,4 +1,4 @@
-#Simple React ToDo List
+# Simple React ToDo List
 ### WHAT YOU CAN:
 * add new task
 * remove task
